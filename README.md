@@ -11,3 +11,5 @@ As part of our Prime contract at USDA, we provide oversight of ongoing Agile pro
 
 ## Agile DEVESECOPS Expertise
 We map the requested system sets of features, functionality, and releases to material changes in enterprise architecture, security posture, and assurance levels. These are then presented and documented through Assessment, Certification, and Accreditation processes to result in System Security Plan, Disaster Recovery Plan, Continuity of Operations Plan, and Incident Response Plan artifacts. There is also a Secure Code document that is used to track the results of all static code scanning results of all binaries prior to deployment in production. 
+
+![alt text](https://github.com/organongitmanager/CICD_Prototype/blob/master/1.png "Organon CICD Pipeline")
